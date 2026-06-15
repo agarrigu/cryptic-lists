@@ -4,7 +4,7 @@ pushd .git/hooks
 if [[ ! -f pre-commit ]] ; then
 	touch pre-commit
 	echo '#!/usr/bin/env bash' > pre-commit
-	chmod +x scr
+	chmod +x pre-commit
 fi
 
 # Do a for loop if there is more than one
