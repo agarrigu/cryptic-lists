@@ -6,7 +6,8 @@ HEADER_REGEX=$'^([A-Z-]{1,7}\.?\t)*[A-Z-]{1,7}\.?$'
 if [[ -z $TSVS ]] ; then
 	echo 'No .tsv files found' >&2
 	echo 'Are you sure you are running this in the correct directory?' >&2
-	&& exit 1
+	exit 1
+fi
 
 for f in $TSVS ; do
 	if [[ -n $(grep -E '\s' <<< "$TSVS") ]] ; then
