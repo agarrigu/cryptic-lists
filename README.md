@@ -20,6 +20,8 @@ in order to keep the data sorted in alphabetical order.
 
 - boys.list: List of common names for boys
 
+- fish.list: List of fish
+
 - french.tsv: French words often found as fodder
 
 - girls.list: List of common names for girls
@@ -29,6 +31,8 @@ in order to keep the data sorted in alphabetical order.
 - latin.tsv: Latin words and phrases often found as fodder
 
 - ornithology.tsv: List of birds
+
+- rivers.list: List of rivers found as fodder
 
 - synonyms.tsv: Synonyms used for fodder, **not** for definition
 
