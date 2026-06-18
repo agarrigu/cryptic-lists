@@ -1,4 +1,5 @@
 FODDER	ABBR.	EXP.	NOTES
+
 about	CA	Circa	Latin for approximately
 about	RE	Regarding
 artist	RA	Royal Academician	Member of The Royal Academy
@@ -8,9 +9,11 @@ city	LA	Los Angeles
 city	NY	New York
 city	RIO	Rio de Janeiro
 doctor	MO	Medical Officer
+each	EA
 fifty	L	N/A	Roman Numeral
 hot	H
 hundred	C	Centum	Roman Numeral
+info	GEN	General Information
 king	ER	Edwardus Rex	Latin for King Edward
 king	K		French deck card
 king	R	Rex	Latin for king
