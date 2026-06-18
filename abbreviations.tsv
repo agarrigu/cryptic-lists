@@ -7,6 +7,7 @@ bill	AC	Account
 city	LA	Los Angeles
 city	NY	New York
 city	RIO	Rio de Janeiro
+doctor	MO	Medical Officer
 fifty	L	N/A	Roman Numeral
 hot	H
 hundred	C	Centum	Roman Numeral
@@ -16,6 +17,7 @@ king	R	Rex	Latin for king
 officer	COL	Colonel
 quiet	P	Piano	Musical Term
 religious education	RE
+sailor	AB	Able Seaman
 second	S
 soft	P	Piano	Musical Term
 square	T	T-Square	A ruler shaped like a T
