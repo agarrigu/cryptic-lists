@@ -1,5 +1,8 @@
 FODDER	SYNONYM
 argument	TIFF
+article	A
+article	AN
+article	THE
 bizarre	RUM
 check	TEST
 cheeky	PERT
@@ -39,6 +42,7 @@ ramble	WALK
 ruin	MAR
 sea creature	CLAM
 secure	PEN
+service	MASS
 shame	STIGMA
 slip	LAPSE
 song	TUNE
