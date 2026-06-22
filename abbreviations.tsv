@@ -4,6 +4,7 @@ about	RE	Regarding
 american	A
 artist	RA	Royal Academician	Member of The Royal Academy
 bachelor	BA	Bachelor of Arts
+big	OS	Outsize
 bill	AC	Account
 church	CE	Church of England
 church	CH
@@ -30,12 +31,15 @@ king	R	Rex	Latin for king
 large	L
 love	O	score of 0	Tennis Term
 million	M
+nothing	O	0	0 is nothing which kind of looks like 'O'
 officer	COL	Colonel
 official	REF	Referee
 quiet	P	Piano	Musical Term
 religious education	RE
-ring	O	N/A	A ring kind of looks like a O
+right	R
+ring	O	N/A	A ring kind of looks like 'O'
 sailor	AB	Able Seaman
+sailor	OS	Ordinary Seaman
 second	S
 small	S
 soft	P	Piano	Musical Term
