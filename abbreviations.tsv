@@ -6,6 +6,7 @@ artist	RA	Royal Academician	Member of The Royal Academy
 bachelor	BA	Bachelor of Arts
 big	OS	Outsize
 bill	AC	Account
+car	RR	Rolls-Royce
 church	CE	Church of England
 church	CH
 city	LA	Los Angeles
@@ -40,10 +41,13 @@ right	R
 ring	O	N/A	A ring kind of looks like 'O'
 sailor	AB	Able Seaman
 sailor	OS	Ordinary Seaman
+saint	S
+saint	ST
 second	S
 small	S
 soft	P	Piano	Musical Term
 son	S
+special	SP
 square	T	T-Square	A ruler shaped like a T
 thousand	K
 wife	W
