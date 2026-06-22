@@ -1,0 +1,7 @@
+(A) Create script to check if sorted
+(A) Create script to check entries are unique
+(A) Pre-hook script should only check and return error or success and message
+(A) Create script to remove duplicates
+(B) Create Makefile to run both scripts?
+(A) Add CONTRIBUTING file
+(B) Add reference to todo.txt in CONTRIBUTING file
