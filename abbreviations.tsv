@@ -17,6 +17,7 @@ daughter	D
 doctor	MO	Medical Officer
 duck	O	0 runs	Cricketing Term
 each	EA
+english	E
 fifty	L	N/A	Roman Numeral
 foreing office	FO
 hard	H
@@ -32,6 +33,7 @@ king	R	Rex	Latin for king
 large	L
 love	O	score of 0	Tennis Term
 million	M
+money	M
 nothing	O	0	0 is nothing which kind of looks like 'O'
 officer	COL	Colonel
 official	REF	Referee
@@ -49,5 +51,8 @@ soft	P	Piano	Musical Term
 son	S
 special	SP
 square	T	T-Square	A ruler shaped like a T
+sun	S
 thousand	K
+unknown	X		Math Term
+unknown	Y		Math Term
 wife	W
