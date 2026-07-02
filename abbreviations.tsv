@@ -14,11 +14,13 @@ city	NY	New York
 city	RIO	Rio de Janeiro
 company	CO
 daughter	D
+diabomds	D		From the french card deck suit
 doctor	MO	Medical Officer
 duck	O	0 runs	Cricketing Term
 each	EA
 english	E
 fifty	L	N/A	Roman Numeral
+five	V		Roman Numeral
 foreing office	FO
 hard	H
 heroin	H
@@ -35,6 +37,7 @@ love	O	score of 0	Tennis Term
 million	M
 money	M
 nothing	O	0	0 is nothing which kind of looks like 'O'
+novice	L	Learner
 officer	COL	Colonel
 official	REF	Referee
 quiet	P	Piano	Musical Term
@@ -50,9 +53,12 @@ small	S
 soft	P	Piano	Musical Term
 son	S
 special	SP
+spies	CIA	Central Intelligence Agents?
+spy	CIA	Central Intelligence Agent?
 square	T	T-Square	A ruler shaped like a T
 sun	S
 thousand	K
+time	T
 unknown	X		Math Term
 unknown	Y		Math Term
 wife	W
