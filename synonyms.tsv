@@ -25,12 +25,15 @@ club	PUTTER
 club	WOOD
 commercial	AD
 company	FIRM
+competition	RACE
 confident	SURE
 consume	EAT
 contest	BOUT
 corporation	GUT
 crime	SIN
+cut	SHEAR
 dark	DINGY
+dessert	SWEET
 directors	BOARD
 disorder	RIOT
 doing wrong	ERRING
@@ -72,6 +75,7 @@ manage	DO
 manage	RUN
 man	HE
 man	ISLE
+mark	TICK
 metal	STEEL
 miser	SAVER
 model	POSE
@@ -92,6 +96,7 @@ papers	THESES
 papers	VISAS
 parson	MINISTER
 particular	DETAIL
+past	AGO
 pay for	ATONE
 petition	BEG
 pleased	GLAD
@@ -113,6 +118,7 @@ shame	STIGMA
 sing	HUM
 sister	NUN
 slip	LAPSE
+smart	CHIC
 snake	ADDER
 snake	ASP
 snake	BOA
@@ -123,7 +129,9 @@ stick	CLING
 stop	BAR
 story	LIE
 strange	RUM
+subsequently	THEN
 subside DROP
+substantial	BIG
 suggestion	TAINT
 summary	RECAP
 thank you	TA
@@ -140,4 +148,5 @@ venue	PLACE
 visitor	GUEST
 was fond of	LIKED
 wine	PORT
+work	OPUS
 write	PEN

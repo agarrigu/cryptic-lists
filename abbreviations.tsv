@@ -1,11 +1,14 @@
 FODDER	ABBR.	EXP.	NOTES
+50	L	N/A	Roman Numeral
 about	CA	Circa	Latin for approximately
 about	RE	Regarding
+agency	NASA	National Aero-Space Agency
 american	A
 artist	RA	Royal Academician	Member of The Royal Academy
 bachelor	BA	Bachelor of Arts
 big	OS	Outsize
 bill	AC	Account
+british	B
 car	RR	Rolls-Royce
 church	CE	Church of England
 church	CH
@@ -18,12 +21,15 @@ diabomds	D		From the french card deck suit
 doctor	MO	Medical Officer
 duck	O	0 runs	Cricketing Term
 each	EA
+edited	ED
 english	E
 fifty	L	N/A	Roman Numeral
 five	V		Roman Numeral
 foreing office	FO
 gold	AU		Chemical Symbol
+good	G
 hard	H
+he had	HED
 heroin	H
 hot	H
 hundred	C	Centum	Roman Numeral
@@ -34,9 +40,11 @@ king	ER	Edwardus Rex	Latin for King Edward
 king	K		French deck card
 king	R	Rex	Latin for king
 large	L
+line	L
 love	O	score of 0	Tennis Term
 million	M
 money	M
+month	OCT	October
 newspaper chief	ED	Editor
 nothing	O	0	0 is nothing which kind of looks like 'O'
 novice	L	Learner
@@ -44,6 +52,7 @@ officer	COL	Colonel
 official	REF	Referee
 pound	LB	Libra	Latin for weight?
 quiet	P	Piano	Musical Term
+religious book	OT	Old Testament
 religious education	RE
 right	R
 ring	O	N/A	A ring kind of looks like 'O'
