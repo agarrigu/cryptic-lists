@@ -12,6 +12,7 @@ before	PRE
 belief	CREED
 bizarre	RUM
 breeze	AIR
+cast	DIE
 castle	FORT
 ceremony	RITE
 chap	GENT
@@ -33,6 +34,7 @@ dark	DINGY
 directors	BOARD
 disorder	RIOT
 doing wrong	ERRING
+dry	AIR
 during	IN
 earth	DEN
 earth	SOD
@@ -54,6 +56,7 @@ height	PEAK
 helper	ELF
 herb	SAGE
 hike	RAMBLE
+hospital department	WARD
 hurried	RAN
 important	MAIN
 info	GEN
@@ -123,6 +126,7 @@ strange	RUM
 subside DROP
 suggestion	TAINT
 summary	RECAP
+thank you	TA
 through	VIA
 throw away	BIN
 time	AGE
@@ -135,4 +139,5 @@ usual	CUSTOM
 venue	PLACE
 visitor	GUEST
 was fond of	LIKED
+wine	PORT
 write	PEN
