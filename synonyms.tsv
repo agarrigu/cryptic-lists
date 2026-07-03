@@ -15,6 +15,7 @@ breeze	AIR
 castle	FORT
 ceremony	RITE
 chap	GENT
+charge	FEE
 check	TEST
 cheeky	PERT
 chicked	HEN
@@ -23,6 +24,7 @@ club	PUTTER
 club	WOOD
 commercial	AD
 company	FIRM
+confident	SURE
 consume	EAT
 contest	BOUT
 corporation	GUT
@@ -45,14 +47,18 @@ fresh	NEW
 friend	BUD
 friend	PAL
 frugal MISER
+fruit	DATE
 genuine REAL
 headquarters	BASE
 height	PEAK
 helper	ELF
 herb	SAGE
+hike	RAMBLE
 hurried	RAN
+important	MAIN
 info	GEN
 inlet	RIA
+interruption	BREAK
 jewellery	RING
 journey	TRIP
 joystick	LEVER
@@ -67,10 +73,10 @@ metal	STEEL
 miser	SAVER
 model	POSE
 money	POUND
-most important	MAIN
 music	DISCO
 name	TERM
 name	TITLE
+number	EIGHT
 odd	RUM
 on loan	OUT
 organise	RUN
@@ -89,7 +95,9 @@ possesses	HAS
 pretty	CUTE
 promoted	UP
 ramble	WALK
+row	STROKE
 ruin	MAR
+scam	CON
 school time	TERM
 sea creature	CLAM
 secure	PEN
@@ -110,9 +118,11 @@ stop	BAR
 story	LIE
 strange	RUM
 subside DROP
+suggestion	TAINT
 summary	RECAP
 through	VIA
 throw away	BIN
+time	AGE
 titan	ATLAS
 travel	GO
 trendy	IN
