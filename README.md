@@ -4,16 +4,14 @@
 
 Useful lists and tabulated data to help with cryptic crosswords.
 
-Most entries are taken from the Metro cryptic or Guardian's Quiptics,
-they are all seen examples.
-
 ## Contributing
 
-Entries **must** be fodder, **not** definitions.
+Entries MUST be fodder, **not definitions**.
 The only exception is hippology.tsv and ornithology.tsv (maybe textiles and geography),
 the reason for this is pure vibes.
+Entries SHOULD be singular unless the plural does not just add an 's' to the singular.
 
-When adding entries the commit format should look like this:
+When adding entries the commit message should look like this:
 ```
 Add entries
 
@@ -32,9 +30,10 @@ The `date` field is the date the puzzle was published.
 Dates should be in the format `YYYY-MM-DD, WEEKDAY`.
 
 When contributing to README.md, or any .md document,
-lines **must** be 100 chars or less.
-Try to break up long lines in natural points like commas and periods.
-If you write a line that's more than 100 chars with no natural pauses, rephrase it.
+lines MUST be 100 chars or less.
+Long lines SHOULD be broken at natural points like commas and periods.
+If a line is more than 100 chars with no natural pauses, rephrase it.
+There MUST never be more than one consecutive empty line.
 
 Please run `./scripts/sort-tsvs.sh` before committing,
 in order to keep the data sorted in alphabetical order.
@@ -45,16 +44,18 @@ in order to keep the data sorted in alphabetical order.
 
 - anthropology.tsv: Some noteworthy people
 
-- french.tsv: French words often found as fodder
+- botany.tsv: List of (mostly) flowers
 
-- geography.tsv: Some geographical terms and their meanings
+- french.tsv: French words
 
-- hippology.tsv: Some equine terms and their meanings
+- geography.tsv: Some geographical terms
 
-- latin.tsv: Latin words and phrases often found as fodder
+- hippology.tsv: Some equine terms
+
+- latin.tsv: Latin words and phrases
 
 - ornithology.tsv: List of birds
 
-- synonyms.tsv: Synonyms used for fodder, **not** for definition
+- synonyms.tsv: Substitutions of fodder for whole words, **not definition **
 
 - textiles.tsv: Fabrics and materials
