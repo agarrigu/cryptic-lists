@@ -27,16 +27,19 @@ commercial	AD
 company	FIRM
 competition	RACE
 confident	SURE
+considered	RATED
 consume	EAT
 contest	BOUT
 corporation	GUT
 crime	SIN
 cut	SHEAR
+dam	WEIR
 dark	DINGY
 dessert	SWEET
 directors	BOARD
 disorder	RIOT
 doing wrong	ERRING
+drink	LAGER
 dry	AIR
 during	IN
 earth	DEN
@@ -44,9 +47,11 @@ earth	SOD
 enclousure	STY
 exploit	USE
 facility	EASE
+feature	WART
 festering	SEPTIC
 finished	ENDED
 finished	OVER
+finish	END
 former	EX
 fresh	NEW
 friend	BUD
@@ -54,6 +59,8 @@ friend	PAL
 frugal MISER
 fruit	DATE
 genuine REAL
+ghost	SPIRIT
+girl	GAL
 headquarters	BASE
 height	PEAK
 helper	ELF
@@ -62,13 +69,16 @@ hike	RAMBLE
 hospital department	WARD
 hurried	RAN
 important	MAIN
+in debt	OWING
 info	GEN
 inlet	RIA
 interruption	BREAK
 jewellery	RING
+joke	PRANK
 journey	TRIP
 joystick	LEVER
 kind	ILK
+lift	RAISE
 long	PINE
 looked for	SOUGHT
 manage	DO
@@ -76,9 +86,11 @@ manage	RUN
 man	HE
 man	ISLE
 mark	TICK
+measure	DOSE
 metal	STEEL
 miser	SAVER
 model	POSE
+moisten	WET
 money	POUND
 music	DISCO
 name	TERM

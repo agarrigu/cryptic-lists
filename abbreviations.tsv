@@ -17,6 +17,7 @@ city	NY	New York
 city	RIO	Rio de Janeiro
 company	CO
 daughter	D
+depth	D
 diabomds	D		From the french card deck suit
 doctor	MO	Medical Officer
 duck	O	0 runs	Cricketing Term
@@ -36,6 +37,7 @@ hundred	C	Centum	Roman Numeral
 husband	H
 info	GEN	General Information
 island	I
+journalist	ED	Editor
 king	ER	Edwardus Rex	Latin for King Edward
 king	K		French deck card
 king	R	Rex	Latin for king
@@ -50,6 +52,7 @@ nothing	O	0	0 is nothing which kind of looks like 'O'
 novice	L	Learner
 officer	COL	Colonel
 official	REF	Referee
+one	I	N/A	Roman Numeral
 pound	LB	Libra	Latin for weight?
 quiet	P	Piano	Musical Term
 religious book	OT	Old Testament
