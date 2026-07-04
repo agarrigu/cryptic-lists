@@ -9,7 +9,7 @@ they are all seen examples.
 
 ## Contributing
 
-Entries MUST be fodder, not definitions.
+Entries *must* be fodder, *not* definitions.
 The only exception is hippology.tsv and ornithology.tsv (maybe textiles and geography),
 the reason for this is pure vibes.
 
@@ -32,7 +32,7 @@ The `date` field is the date the puzzle was published.
 Dates should be in the format `YYYY-MM-DD, WEEKDAY`.
 
 When contributing to README.md, or any .md document,
-lines MUST be 100 chars or less.
+lines *must* be 100 chars or less.
 Try to break up long lines in natural points like commas and periods.
 If you write a line that's more than 100 chars with no natural pauses, rephrase it.
 
