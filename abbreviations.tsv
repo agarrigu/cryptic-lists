@@ -15,6 +15,7 @@ church	CH
 city	LA	Los Angeles
 city	NY	New York
 city	RIO	Rio de Janeiro
+cold	C
 company	CO
 daughter	D
 depth	D
@@ -23,7 +24,9 @@ doctor	MO	Medical Officer
 duck	O	0 runs	Cricketing Term
 each	EA
 edited	ED
+energy	E
 english	E
+fellow	F
 fifty	L	N/A	Roman Numeral
 five	V		Roman Numeral
 foreing office	FO
@@ -37,11 +40,13 @@ hundred	C	Centum	Roman Numeral
 husband	H
 info	GEN	General Information
 island	I
+island	IS
 journalist	ED	Editor
 king	ER	Edwardus Rex	Latin for King Edward
 king	K		French deck card
 king	R	Rex	Latin for king
 large	L
+large number	D	N/A	Roman Numeral for 500
 line	L
 love	O	score of 0	Tennis Term
 million	M
@@ -53,7 +58,14 @@ novice	L	Learner
 officer	COL	Colonel
 official	REF	Referee
 one	I	N/A	Roman Numeral
+penny	P
+point	E	East
+point	N	North
+point	SE	South-East
+point	S	South
+point	W	West
 pound	LB	Libra	Latin for weight?
+progressive	LIB	Liberal
 quiet	P	Piano	Musical Term
 religious book	OT	Old Testament
 religious education	RE

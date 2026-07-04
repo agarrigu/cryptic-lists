@@ -1,6 +1,9 @@
 FODDER	SYNONYM
 accustomed	USED
 addiction	HABBIT
+allowed	LET
+allow	LET
+animal	TIGRE
 appropiate	FIT
 argument	TIFF
 article	A
@@ -11,6 +14,8 @@ beautiful ADONIS
 before	PRE
 belief	CREED
 bizarre	RUM
+box	SPAR
+boy	LAD
 boy	PAT
 boy	RON
 breeze	AIR
@@ -64,7 +69,9 @@ fruit	DATE
 genuine	REAL
 ghost	SPIRIT
 girl	ANN
+girl	ENID
 girl	GAL
+girl	IDA
 headquarters	BASE
 height	PEAK
 helper	ELF
@@ -81,6 +88,7 @@ jewellery	RING
 joke	PRANK
 journey	TRIP
 joystick	LEVER
+keen	AVID
 kind	ILK
 lift	RAISE
 long	PINE
@@ -89,7 +97,9 @@ manage	DO
 manage	RUN
 man	HE
 man	ISLE
+mark	SCAR
 mark	TICK
+meal	SUPPER
 measure	DOSE
 metal	STEEL
 miser	SAVER
@@ -99,6 +109,7 @@ money	POUND
 music	DISCO
 name	TERM
 name	TITLE
+notice	AD
 number	EIGHT
 number	TEN
 odd	RUM
@@ -121,10 +132,12 @@ pretty	CUTE
 promoted	UP
 ramble	WALK
 relative	AUNT
+rig	DECK
 river	DEE
 river	EXE
 river	LEA
 river	LEE
+river	NILE
 river	PO
 river	URAL
 row	STROKE
@@ -151,6 +164,7 @@ stick	CLING
 stop	BAR
 story	LIE
 strange	RUM
+study	READ
 subsequently	THEN
 subside DROP
 substantial	BIG
@@ -161,6 +175,7 @@ through	VIA
 throw away	BIN
 time	AGE
 titan	ATLAS
+town	CITY
 travel	GO
 trendy	IN
 try	HEAR
@@ -168,6 +183,7 @@ underground	TUBE
 usual	CUSTOM
 venue	PLACE
 visitor	GUEST
+warning	FORE
 was fond of	LIKED
 wine	PORT
 work	OPUS
