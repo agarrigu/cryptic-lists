@@ -4,39 +4,22 @@
 
 Useful lists and tabulated data to help with cryptic crosswords.
 
-## Contributing
+## Usage
 
-Entries MUST be fodder, **not definitions**.
-The only exception is hippology.tsv and ornithology.tsv (maybe textiles and geography),
-the reason for this is pure vibes.
-Entries SHOULD be singular unless the plural does not just add an 's' to the singular.
-
-When adding entries the commit message should look like this:
+For general search grep should be enough:
 ```
-Add entries
-
-paper:  The Guardian
-puzzle: Quiptic
-date:   2024-02-04, Monday
-number: 4242
-setter: Marvin
-notes:  incomplete
+grep -s fodder *
 ```
-"Add entries" as the subject followed by a list of key value pairs with some useful info.
-Separate keys and values with tabs.
-No field is mandatory.
-The fields in the example are not exhaustive.
-The `date` field is the date the puzzle was published.
-Dates should be in the format `YYYY-MM-DD, WEEKDAY`.
 
-When contributing to README.md, or any .md document,
-lines MUST be 100 chars or less.
-Long lines SHOULD be broken at natural points like commas and periods.
-If a line is more than 100 chars with no natural pauses, rephrase it.
-There MUST never be more than one consecutive empty line.
+For the following specific fodder types a general grep might not be enough.
 
-Please run `./scripts/sort-tsvs.sh` before committing,
-in order to keep the data sorted in alphabetical order.
+For language indicators use the appropriate language file.
+
+For specific areas of study (hippology, botany, etc) you can grep for tags,
+e.g. to get help for the clue 'wading bird:
+```
+grep wading ornithology.tsv
+```
 
 ## Lists and TSVs
 
@@ -56,6 +39,6 @@ in order to keep the data sorted in alphabetical order.
 
 - ornithology.tsv: List of birds
 
-- synonyms.tsv: Substitutions of fodder for whole words, **not definition **
+- synonyms.tsv: Substitutions of fodder for whole words, **not definition**
 
 - textiles.tsv: Fabrics and materials
