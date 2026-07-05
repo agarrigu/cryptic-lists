@@ -18,9 +18,11 @@ city	NY	New York
 city	RIO	Rio de Janeiro
 cold	C
 company	CO
+current	I	Intensité du courant	French for current intensity
 daughter	D
 depth	D
 diabomds	D		From the french card deck suit
+doctor	DR
 doctor	MO	Medical Officer
 duck	O	0 runs	Cricketing Term
 each	EA
@@ -36,6 +38,8 @@ good	G
 hard	H
 he had	HED
 heroin	H
+hospital	H
+hotel	H
 hot	H
 hundred	C	Centum	Roman Numeral
 husband	H
@@ -92,3 +96,4 @@ university	U
 unknown	X		Math Term
 unknown	Y		Math Term
 wife	W
+workers group	TU	Trade Union

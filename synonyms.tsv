@@ -55,12 +55,15 @@ enclousure	STY
 evening	NIGHT
 exploit	USE
 facility	EASE
+father	POP
 feature	WART
 festering	SEPTIC
 finished	ENDED
 finished	OVER
 finish	END
 fish	SPRAT
+fit	SUIT
+food store	DELI
 former	EX
 fresh	NEW
 friend	BUD
@@ -74,6 +77,7 @@ girl	ENID
 girl	GAL
 girl	IDA
 headquarters	BASE
+healthy	STRONG
 height	PEAK
 helper	ELF
 herb	SAGE
@@ -91,6 +95,7 @@ journey	TRIP
 joystick	LEVER
 keen	AVID
 kind	ILK
+knock	TAP
 lift	RAISE
 long	PINE
 looked for	SOUGHT
@@ -102,11 +107,13 @@ mark	SCAR
 mark	TICK
 meal	SUPPER
 measure	DOSE
+men	STAG
 metal	STEEL
 miser	SAVER
 model	POSE
 moisten	WET
 money	POUND
+move slowly	INCH
 music	DISCO
 name	TERM
 name	TITLE
@@ -131,8 +138,11 @@ pleased	GLAD
 possesses	HAS
 pretty	CUTE
 promoted	UP
+race	NATION
 ramble	WALK
+ran into	MET
 relative	AUNT
+relative	GRAN
 rig	DECK
 river	DEE
 river	EXE
@@ -158,19 +168,23 @@ smart	CHIC
 snake	ADDER
 snake	ASP
 snake	BOA
+soft spot	MIRE
 song	TUNE
 stands	RESTS
+steady	STABLE
 steeple	SPIRE
 stick	CLING
 stop	BAR
 story	LIE
 strange	RUM
+student	LEARNER
 study	READ
 subsequently	THEN
 subside DROP
 substantial	BIG
 suggestion	TAINT
 summary	RECAP
+test	TAX
 thank you	TA
 through	VIA
 throw away	BIN
@@ -187,5 +201,7 @@ visitor	GUEST
 warning	FORE
 was fond of	LIKED
 wine	PORT
+worker	ANT
+worker	HAND
 work	OPUS
 write	PEN
