@@ -14,6 +14,7 @@ beautiful ADONIS
 before	PRE
 belief	CREED
 bizarre	RUM
+book	RESERVE
 box	SPAR
 boy	LAD
 boy	PAT
@@ -23,6 +24,7 @@ cast	DIE
 castle	FORT
 ceremony	RITE
 chap	GENT
+chap	MAN
 charge	FEE
 check	TEST
 cheeky	PERT
@@ -70,12 +72,14 @@ friend	BUD
 friend	PAL
 frugal	MISER
 fruit	DATE
+fruit	GOURD
 genuine	REAL
 ghost	SPIRIT
 girl	ANN
 girl	ENID
 girl	GAL
 girl	IDA
+group	SET
 headquarters	BASE
 healthy	STRONG
 height	PEAK
@@ -102,7 +106,7 @@ looked for	SOUGHT
 manage	DO
 manage	RUN
 man	HE
-man	ISLE
+Man	ISLE
 mark	SCAR
 mark	TICK
 meal	SUPPER
@@ -125,6 +129,7 @@ on loan	OUT
 organise	RUN
 outlet	DISCO
 oven	OAST
+paintings	ART
 papers	ESSAYS
 papers	ID
 papers	THESES
@@ -141,8 +146,10 @@ promoted	UP
 race	NATION
 ramble	WALK
 ran into	MET
+region	AREA
 relative	AUNT
 relative	GRAN
+respond	REACT
 rig	DECK
 river	DEE
 river	EXE
@@ -173,6 +180,7 @@ song	TUNE
 stands	RESTS
 steady	STABLE
 steeple	SPIRE
+step	PACE
 stick	CLING
 stop	BAR
 story	LIE
