@@ -5,12 +5,14 @@ allowed	LET
 allow	LET
 animal	TIGRE
 appropiate	FIT
+aquire	GET
 argument	TIFF
 article	A
 article	AN
 article	THE
 bag	SACK
 beautiful ADONIS
+beef	OX
 before	PRE
 belief	CREED
 bizarre	RUM
@@ -20,6 +22,9 @@ boy	LAD
 boy	PAT
 boy	RON
 breeze	AIR
+cancelled	OFF
+cannine command	HEEL
+can	TIN
 cast	DIE
 castle	FORT
 ceremony	RITE
@@ -29,6 +34,7 @@ charge	FEE
 check	TEST
 cheeky	PERT
 chicked	HEN
+child	SON
 clock	TIME
 club	PUTTER
 club	WOOD
@@ -48,6 +54,8 @@ dessert	SWEET
 directors	BOARD
 disorder	RIOT
 doing wrong	ERRING
+drama	PLAY
+drink	ALE
 drink	LAGER
 dry	AIR
 during	IN
@@ -55,6 +63,7 @@ earth	DEN
 earth	SOD
 enclousure	STY
 evening	NIGHT
+expensive DEAR
 exploit	USE
 facility	EASE
 father	POP
@@ -84,6 +93,7 @@ headquarters	BASE
 healthy	STRONG
 height	PEAK
 helper	ELF
+herb	MINT
 herb	SAGE
 hike	RAMBLE
 hospital department	WARD
@@ -117,6 +127,7 @@ miser	SAVER
 model	POSE
 moisten	WET
 money	POUND
+mother	DAM
 move slowly	INCH
 music	DISCO
 name	TERM
@@ -138,7 +149,9 @@ parson	MINISTER
 particular	DETAIL
 past	AGO
 pay for	ATONE
+penultimate	Y
 petition	BEG
+platoon	UNIT
 pleased	GLAD
 possesses	HAS
 pretty	CUTE
@@ -150,6 +163,7 @@ region	AREA
 relative	AUNT
 relative	GRAN
 respond	REACT
+rifle	GUN
 rig	DECK
 river	DEE
 river	EXE
@@ -202,6 +216,7 @@ town	CITY
 travel	GO
 trendy	IN
 try	HEAR
+tv	SET
 underground	TUBE
 usual	CUSTOM
 venue	PLACE
@@ -209,6 +224,7 @@ visitor	GUEST
 warning	FORE
 was fond of	LIKED
 wine	PORT
+woman	HER
 worker	ANT
 worker	HAND
 work	OPUS

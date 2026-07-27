@@ -23,6 +23,10 @@ current	I	Intensité du courant	French for current intensity
 daughter	D
 depth	D
 diabomds	D		From the french card deck suit
+direction	E
+direction	N
+direction	S
+direction	W
 doctor	DR
 doctor	MO	Medical Officer
 duck	O	0 runs	Cricketing Term
@@ -59,12 +63,14 @@ million	M
 money	M
 month	OCT	October
 newspaper chief	ED	Editor
+north	N
 nothing	O	0	0 is nothing which kind of looks like 'O'
 novice	L	Learner
 officer	COL	Colonel
 official	REF	Referee
 one	I	N/A	Roman Numeral
 page	P
+pair	PR
 penny	P
 point	E	East
 point	N	North
@@ -84,6 +90,7 @@ saint	S
 saint	ST
 second	S
 small	S
+soft	P
 soft	P	Piano	Musical Term
 son	S
 southern	S
@@ -97,5 +104,8 @@ time	T
 university	U
 unknown	X		Math Term
 unknown	Y		Math Term
+very large	OS	outsize
+very soft	PP
 wife	W
 workers group	TU	Trade Union
+You and i had	WED	We had
