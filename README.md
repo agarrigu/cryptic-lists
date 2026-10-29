@@ -29,9 +29,13 @@ grep wading ornithology.csv
 
 - botany.csv: Some vegetative terms, mostly floristic
 
+- boy.list: Male names
+
 - french.csv: French words
 
 - geography.csv: Some geographical terms
+
+- girl.list: Female names
 
 - hippology.csv: Some equine terms, mostly equestrian
 
