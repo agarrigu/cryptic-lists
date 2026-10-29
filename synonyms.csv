@@ -1,18 +1,22 @@
 FODDER,SYNONYM
 accustomed,USED
+acquire,GET
 addiction,HABIT
 allowed,LET
 allow,LET
+also,TOO
 animal,TIGER
+animal,WEASEL
 appropriate,FIT
-acquire,GET
 argument,TIFF
 article,A
 article,AN
 article,THE
 bag,SACK
+basic mineral,ORE
 beautiful,ADONIS
 beef,OX
+beer,ALE
 before,PRE
 belief,CREED
 bizarre,RUM
@@ -35,6 +39,7 @@ check,TEST
 cheeky,PERT
 chicken,HEN
 child,SON
+cliff,CRAG
 clock,TIME
 club,PUTTER
 club,WOOD
@@ -55,6 +60,7 @@ directors,BOARD
 disorder,RIOT
 doing wrong,ERRING
 drama,PLAY
+drawn,LED
 drink,ALE
 drink,LAGER
 dry,AIR
@@ -63,6 +69,7 @@ earth,DEN
 earth,SOD
 enclosure,STY
 evening,NIGHT
+exam,TEST
 expensive DEAR
 exploit,USE
 facility,EASE
@@ -82,6 +89,7 @@ friend,PAL
 frugal,MISER
 fruit,DATE
 fruit,GOURD
+gather,PLEAT
 genuine,REAL
 ghost,SPIRIT
 girl,ANN
@@ -102,8 +110,10 @@ important,MAIN
 in debt,OWING
 info,GEN
 inlet,RIA
+instrument,TOOL
 interruption,BREAK
 jewellery,RING
+job,POST
 joke,PRANK
 journey,TRIP
 joystick,LEVER
@@ -141,6 +151,7 @@ organise,RUN
 outlet,DISCO
 oven,OAST
 paintings,ART
+panel,JURY
 papers,ESSAYS
 papers,ID
 papers,THESES
@@ -162,6 +173,8 @@ ran into,MET
 region,AREA
 relative,AUNT
 relative,GRAN
+remainder,REST
+rented,LET
 respond,REACT
 rifle,GUN
 rig,DECK
@@ -173,6 +186,7 @@ river,NILE
 river,PO
 river,URAL
 row,STROKE
+rubber,TIRE
 ruin,MAR
 scam,CON
 school time,TERM
@@ -182,6 +196,7 @@ secure,PEN
 service,MASS
 shame,PITY
 shame,STIGMA
+sheep,EWE
 sing,HUM
 sister,NUN
 slip,LAPSE
@@ -223,6 +238,7 @@ venue,PLACE
 visitor,GUEST
 warning,FORE
 was fond of,LIKED
+well regarded,RATED
 wine,PORT
 woman,HER
 worker,ANT
