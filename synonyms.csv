@@ -12,13 +12,16 @@ argument,TIFF
 article,A
 article,AN
 article,THE
+attitude,POSE
 bag,SACK
+balcony,GALLERY
 basic mineral,ORE
 beautiful,ADONIS
 beef,OX
 beer,ALE
 before,PRE
 belief,CREED
+beyond,OFF
 bizarre,RUM
 book,RESERVE
 box,SPAR
@@ -31,6 +34,7 @@ canine command,HEEL
 can,TIN
 cast,DIE
 castle,FORT
+centre,HEART
 ceremony,RITE
 chap,GENT
 chap,MAN
@@ -89,6 +93,7 @@ friend,PAL
 frugal,MISER
 fruit,DATE
 fruit,GOURD
+function,PARTY
 gather,PLEAT
 genuine,REAL
 ghost,SPIRIT
@@ -110,6 +115,7 @@ important,MAIN
 in debt,OWING
 info,GEN
 inlet,RIA
+instant,MO
 instrument,TOOL
 interruption,BREAK
 jewellery,RING
@@ -121,6 +127,9 @@ keen,AVID
 kind,ILK
 knock,TAP
 lift,RAISE
+limit,END
+locked room,CELL
+longing,YEN
 long,PINE
 looked for,SOUGHT
 manage,DO
@@ -133,11 +142,13 @@ meal,SUPPER
 measure,DOSE
 men,STAG
 metal,STEEL
+miscalculation,ERROR
 miser,SAVER
 model,POSE
 moisten,WET
 money,POUND
 mother,DAM
+mother,MA
 move slowly,INCH
 music,DISCO
 name,TERM
@@ -169,6 +180,7 @@ pretty,CUTE
 promoted,UP
 race,NATION
 ramble,WALK
+ran,FLEW
 ran into,MET
 region,AREA
 relative,AUNT
@@ -197,6 +209,7 @@ service,MASS
 shame,PITY
 shame,STIGMA
 sheep,EWE
+sheltered side,LEE
 sing,HUM
 sister,NUN
 slip,LAPSE
@@ -225,11 +238,13 @@ test,TAX
 thank you,TA
 through,VIA
 throw away,BIN
+tick,MO
 time,AGE
 titan,ATLAS
 town,CITY
 travel,GO
 trendy,IN
+trust,RELY
 try,HEAR
 TV,SET
 underground,TUBE
@@ -243,5 +258,6 @@ wine,PORT
 woman,HER
 worker,ANT
 worker,HAND
+work,OP
 work,OPUS
 write,PEN
