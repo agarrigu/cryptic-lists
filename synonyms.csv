@@ -13,6 +13,7 @@ article,A
 article,AN
 article,THE
 attitude,POSE
+back,HIND
 bag,SACK
 balcony,GALLERY
 basic mineral,ORE
@@ -21,12 +22,15 @@ beef,OX
 beer,ALE
 before,PRE
 belief,CREED
+belonging to us,OUR
 beyond,OFF
 bizarre,RUM
+bony,LEAN
 book,RESERVE
 box,SPAR
 boy,LAD
 breeze,AIR
+bull,COW
 cancelled,OFF
 canine command,HEEL
 can,TIN
@@ -64,6 +68,7 @@ decay,ROT
 dessert,SWEET
 directors,BOARD
 disorder,RIOT
+dog,BITCH
 doing wrong,ERRING
 drama,PLAY
 drawn,LED
@@ -128,8 +133,10 @@ journey,TRIP
 joystick,LEVER
 keen,AVID
 kind,ILK
+kiss,SLIP
 knock,TAP
 lair,DEN
+leader,HEAD
 lift,RAISE
 limit,END
 locked room,CELL
@@ -146,10 +153,12 @@ meal,SUPPER
 measure,DOSE
 men,STAG
 metal,STEEL
+midday,NOON
 miscalculation,ERROR
 mischievous child,IMP
 miser,SAVER
 model,POSE
+moderate,SOFTEN
 moisten,WET
 money,POUND
 mother,DAM
@@ -174,6 +183,7 @@ papers,ESSAYS
 papers,ID
 papers,THESES
 papers,VISAS
+parasite,LICE
 parson,MINISTER
 particular,DETAIL
 past,AGO
@@ -228,6 +238,7 @@ snake,ASP
 snake,BOA
 soft spot,MIRE
 song,TUNE
+spray,HOSE
 stands,RESTS
 steady,STABLE
 steeple,SPIRE
@@ -260,6 +271,7 @@ underground,TUBE
 university composition,ESSAY
 usual,CUSTOM
 venue,PLACE
+vessel,URN
 visitor,GUEST
 warning,FORE
 was fond of,LIKED
@@ -273,3 +285,4 @@ work,OP
 work,OPUS
 write,PEN
 wrong,TORT
+you and I,WE
