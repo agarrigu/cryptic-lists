@@ -26,8 +26,6 @@ bizarre,RUM
 book,RESERVE
 box,SPAR
 boy,LAD
-boy,PAT
-boy,RON
 breeze,AIR
 cancelled,OFF
 canine command,HEEL
@@ -97,10 +95,7 @@ function,PARTY
 gather,PLEAT
 genuine,REAL
 ghost,SPIRIT
-girl,ANN
-girl,ENID
 girl,GAL
-girl,IDA
 group,SET
 headquarters,BASE
 healthy,STRONG
