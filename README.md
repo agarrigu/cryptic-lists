@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Useful lists and tabulated data to help with cryptic crosswords.
+Useful lists and tables to help with cryptic crosswords.
 
 ## Usage
 
@@ -18,27 +18,31 @@ For language indicators use the appropriate language file.
 For specific areas of study (hippology, botany, etc) you can grep for tags,
 e.g. to get help for the clue 'wading bird:
 ```
-grep wading ornithology.tsv
+grep wading ornithology.csv
 ```
 
-## Lists and TSVs
+## Lists and CSVs
 
-- abbreviations.tsv: Abbreviations, acronyms and initialisations
+- abbreviations.csv: Abbreviations, acronyms and initialisations
 
-- anthropology.tsv: Some noteworthy people
+- anthropology.csv: Some noteworthy people
 
-- botany.tsv: List of (mostly) flowers
+- botany.csv: Some vegetative terms, mostly floristic
 
-- french.tsv: French words
+- french.csv: French words
 
-- geography.tsv: Some geographical terms
+- geography.csv: Some geographical terms
 
-- hippology.tsv: Some equine terms
+- hippology.csv: Some equine terms, mostly equestrian
 
-- latin.tsv: Latin words and phrases
+- italian.csv: Italian words
 
-- ornithology.tsv: List of birds
+- latin.csv: Latin words and phrases
 
-- synonyms.tsv: Substitutions of fodder for whole words, **not definition**
+- ornithology.csv: List of birds
 
-- textiles.tsv: Fabrics and materials
+- spanish.csv: Spanish words
+
+- synonyms.csv: Substitutions of fodder for whole words, **not definition**
+
+- textiles.csv: Fabrics and materials
