@@ -13,6 +13,7 @@ article,A
 article,AN
 article,THE
 attitude,POSE
+attraction,DRAW
 back,HIND
 bag,SACK
 balcony,GALLERY
@@ -39,6 +40,7 @@ castle,FORT
 centre,HEART
 ceremony,RITE
 chap,GENT
+chap,GUY
 chap,MAN
 charge,FEE
 check,TEST
@@ -52,6 +54,7 @@ club,PUTTER
 club,WOOD
 coaches,TRAINS
 commercial,AD
+commercial work,AD
 company,FIRM
 competition,RACE
 confident,SURE
@@ -65,7 +68,9 @@ cut,SHEAR
 dam,WEIR
 dark,DINGY
 decay,ROT
+delicate,LIGHT
 dessert,SWEET
+direction,EAST
 directors,BOARD
 disorder,RIOT
 dog,BITCH
@@ -79,17 +84,22 @@ dry,AIR
 during,IN
 earth,DEN
 earth,SOD
+emphasise,STRESS
 enclosure,STY
+entertainment in a field,FUNFAIR
+entry to a car park,RAMP
 evening,NIGHT
 exam,TEST
 expensive DEAR
 exploit,USE
+expression of surprise,GOSH
 facility,EASE
 fast,LENT
 father,POP
 feature,WART
 festering,SEPTIC
 figure,NUMBER
+filthy site,STY
 finished,ENDED
 finished,OVER
 finish,END
@@ -110,7 +120,9 @@ genuine,REAL
 ghost,SPIRIT
 girl,GAL
 group,SET
+hat,TILE
 headquarters,BASE
+headquarters,CENTRE
 healthy,STRONG
 height,PEAK
 helper,ELF
@@ -164,6 +176,7 @@ money,POUND
 mother,DAM
 mother,MA
 move slowly,INCH
+muddle,MESS
 music,DISCO
 name,TERM
 name,TITLE
@@ -174,6 +187,7 @@ number,TEN
 odd,RUM
 one batting first,OPENER
 on loan,OUT
+opening,VENT
 organise,RUN
 outlet,DISCO
 oven,OAST
@@ -189,9 +203,11 @@ particular,DETAIL
 past,AGO
 pay for,ATONE
 penultimate,Y
+performer,ACT
 petition,BEG
 place,VENUE
 platoon,UNIT
+play on words,PUN
 pleased,GLAD
 possesses,HAS
 pretty,CUTE
@@ -238,12 +254,14 @@ snake,ASP
 snake,BOA
 soft spot,MIRE
 song,TUNE
+sort,KIND
 spray,HOSE
 stands,RESTS
 steady,STABLE
 steeple,SPIRE
 step,PACE
 stick,CLING
+still,EVEN
 stop,BAR
 story,LIE
 strange,RUM
@@ -277,6 +295,7 @@ warning,FORE
 was fond of,LIKED
 well regarded,RATED
 wine,PORT
+wine,RED
 woman,HER
 wood,LUMBER
 worker,ANT
