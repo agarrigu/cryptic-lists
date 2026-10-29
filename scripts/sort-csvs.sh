@@ -1,7 +1,7 @@
 #!/usr/bin/env	bash
 
 CSVS=*.csv
-HEADER_REGEX=$'^([A-Z-]{1,7}\.?,)*[A-Z-]{1,7}\.?$'
+HEADER_REGEX=$'^([A-Z-]*\.?,)*[A-Z-]*\.?$'
 
 if [[ -z $CSVS ]] ; then
 	echo 'No .csv files found' >&2
