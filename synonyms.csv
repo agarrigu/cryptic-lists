@@ -41,10 +41,12 @@ check,TEST
 cheeky,PERT
 chicken,HEN
 child,SON
+circle,RING
 cliff,CRAG
 clock,TIME
 club,PUTTER
 club,WOOD
+coaches,TRAINS
 commercial,AD
 company,FIRM
 competition,RACE
@@ -52,11 +54,13 @@ confident,SURE
 considered,RATED
 consume,EAT
 contest,BOUT
+cord,ROPE
 corporation,GUT
 crime,SIN
 cut,SHEAR
 dam,WEIR
 dark,DINGY
+decay,ROT
 dessert,SWEET
 directors,BOARD
 disorder,RIOT
@@ -65,6 +69,7 @@ drama,PLAY
 drawn,LED
 drink,ALE
 drink,LAGER
+drive away,REPEL
 dry,AIR
 during,IN
 earth,DEN
@@ -75,9 +80,11 @@ exam,TEST
 expensive DEAR
 exploit,USE
 facility,EASE
+fast,LENT
 father,POP
 feature,WART
 festering,SEPTIC
+figure,NUMBER
 finished,ENDED
 finished,OVER
 finish,END
@@ -85,6 +92,7 @@ fish,SPRAT
 fit,SUIT
 food store,DELI
 former,EX
+former wife,EX
 fresh,NEW
 friend,BUD
 friend,PAL
@@ -121,6 +129,7 @@ joystick,LEVER
 keen,AVID
 kind,ILK
 knock,TAP
+lair,DEN
 lift,RAISE
 limit,END
 locked room,CELL
@@ -138,6 +147,7 @@ measure,DOSE
 men,STAG
 metal,STEEL
 miscalculation,ERROR
+mischievous child,IMP
 miser,SAVER
 model,POSE
 moisten,WET
@@ -148,10 +158,12 @@ move slowly,INCH
 music,DISCO
 name,TERM
 name,TITLE
+not at home,OUT
 notice,AD
 number,EIGHT
 number,TEN
 odd,RUM
+one batting first,OPENER
 on loan,OUT
 organise,RUN
 outlet,DISCO
@@ -168,6 +180,7 @@ past,AGO
 pay for,ATONE
 penultimate,Y
 petition,BEG
+place,VENUE
 platoon,UNIT
 pleased,GLAD
 possesses,HAS
@@ -195,6 +208,7 @@ river,URAL
 row,STROKE
 rubber,TIRE
 ruin,MAR
+sausage,SAVELOY
 scam,CON
 school time,TERM
 sea creature,CLAM
@@ -243,6 +257,7 @@ trust,RELY
 try,HEAR
 TV,SET
 underground,TUBE
+university composition,ESSAY
 usual,CUSTOM
 venue,PLACE
 visitor,GUEST
@@ -251,8 +266,10 @@ was fond of,LIKED
 well regarded,RATED
 wine,PORT
 woman,HER
+wood,LUMBER
 worker,ANT
 worker,HAND
 work,OP
 work,OPUS
 write,PEN
+wrong,TORT
