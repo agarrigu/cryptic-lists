@@ -5,5 +5,5 @@
 (B) Create Makefile to run both scripts?
 (B) Add reference to todo.txt in CONTRIBUTING file
 (C) Add search script that greps lists and tsvs appropriately
-(C) Find better format than tsv (not csv, pipes?)
+x Find better format than tsv (not csv, pipes?)
 x Add CONTRIBUTING file
