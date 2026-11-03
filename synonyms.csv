@@ -46,6 +46,7 @@ chap,GENT
 chap,GUY
 chap,MAN
 charge,FEE
+charge,RATE
 check,TEST
 cheeky,PERT
 chicken,HEN
@@ -61,15 +62,18 @@ commercial,AD
 commercial work,AD
 company,FIRM
 competition,RACE
+complain,BEEF
 confident,SURE
 considered,RATED
 consume,EAT
+consumer,EATER
 contest,BOUT
 cord,ROPE
 corporation,GUT
 crime,SIN
 cut,SHEAR
 dam,WEIR
+dance,HAY
 dark,DINGY
 decay,ROT
 deity,GOD
@@ -124,6 +128,7 @@ gather,PLEAT
 genuine,REAL
 ghost,SPIRIT
 girl,GAL
+god,PAN
 group,SET
 hat,TILE
 headquarters,BASE
@@ -153,9 +158,12 @@ kind,ILK
 kiss,SLIP
 knock,TAP
 lair,DEN
+lane,ALLEY
 leader,HEAD
+learning,LORE
 lift,RAISE
 limit,END
+little devil,IMP
 loaf,ROLL
 locked room,CELL
 longing,YEN
@@ -232,6 +240,7 @@ rented,LET
 respond,REACT
 rifle,GUN
 rig,DECK
+river crossing,FORD
 river,DEE
 river,EXE
 river,LEA
