@@ -10,10 +10,12 @@ American,US,United Sates,
 artist,RA,Royal Academician,Member of The Royal Academy
 bachelor,B,,
 bachelor,BA,Bachelor of Arts,
+bend,U,U-bend,
 big,OS,Outsize,
 bill,AC,Account,
 British,B,,
 car,RR,Rolls-Royce,
+charitable,C,,
 church,CE,Church of England,
 church,CH,,
 city,LA,Los Angeles,
@@ -44,8 +46,10 @@ fellow,F,,
 fifty,L,N/A,Roman Numeral
 five,V,,Roman Numeral
 foreign office,FO,,
+for example,EG,Exempli Gratia,Latin for 'for example'
 gold,AU,,Chemical Symbol
 good,G,,
+graduate,BA,Bachelor of Arts,
 hard,H,,
 he had,HED,,
 heroin,H,,
@@ -54,6 +58,7 @@ hotel,H,,
 hot,H,,
 hundred,C,Centum,Roman Numeral
 husband,H,,
+in charge,IC,,
 India,I,,
 info,GEN,General Information,
 inspector,DI,Detective Inspector,
@@ -83,6 +88,7 @@ officer,COL,Colonel,
 official,REF,Referee,
 old penny,D,Denarius,Roman silver coin; Abbr. for pennies before decimalisation
 one,I,N/A,Roman Numeral
+order,OM,Order of Merit,
 over,O,,\Dubious\
 page,P,,
 painter,RA,Royal Academician,Member of The Royal Academy

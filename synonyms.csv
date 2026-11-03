@@ -5,11 +5,13 @@ addiction,HABIT
 allowed,LET
 allow,LET
 also,TOO
+always,EVER
 animal,TIGER
 animal,WEASEL
 appropriate,FIT
 argument,TIFF
 arm,LIMB
+army,HOST
 article,A
 article,AN
 article,THE
@@ -51,6 +53,7 @@ check,TEST
 cheeky,PERT
 chicken,HEN
 child,SON
+choose,OPT
 church official,DEAN
 circle,RING
 cliff,CRAG
@@ -127,6 +130,7 @@ function,PARTY
 gather,PLEAT
 genuine,REAL
 ghost,SPIRIT
+gifts,ALMS
 girl,GAL
 god,PAN
 group,SET
@@ -142,6 +146,7 @@ hike,RAMBLE
 hospital department,WARD
 hurried,RAN
 important,MAIN
+inclined,LIABLE
 in debt,OWING
 info,GEN
 inlet,RIA
@@ -177,8 +182,10 @@ mark,SCAR
 mark,TICK
 meal,SUPPER
 measure,DOSE
+menagerie,ZOO
 men,STAG
 metal,STEEL
+metal,TIN
 midday,NOON
 miscalculation,ERROR
 mischievous child,IMP
@@ -248,13 +255,16 @@ river,LEE
 river,NILE
 river,PO
 river,URAL
+route,PASS
 row,STROKE
 rubber,TIRE
 ruin,MAR
 sausage,SAVELOY
 scam,CON
+school jacket,BLAZE
 school time,TERM
 sea creature,CLAM
+search,HUNT
 section,PART
 secure,PEN
 service,MASS
@@ -310,6 +320,7 @@ venue,PLACE
 vessel,URN
 visitor,GUEST
 warning,FORE
+wartime ordeal,BLITZ
 was fond of,LIKED
 well regarded,RATED
 wine,PORT
