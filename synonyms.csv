@@ -9,12 +9,14 @@ animal,TIGER
 animal,WEASEL
 appropriate,FIT
 argument,TIFF
+arm,LIMB
 article,A
 article,AN
 article,THE
 attitude,POSE
 attraction,DRAW
 back,HIND
+back road,LANE
 bag,SACK
 balcony,GALLERY
 basic mineral,ORE
@@ -31,6 +33,7 @@ book,RESERVE
 box,SPAR
 boy,LAD
 breeze,AIR
+Buddhist faith,ZEN
 bull,COW
 cancelled,OFF
 canine command,HEEL
@@ -47,6 +50,7 @@ check,TEST
 cheeky,PERT
 chicken,HEN
 child,SON
+church official,DEAN
 circle,RING
 cliff,CRAG
 clock,TIME
@@ -68,6 +72,7 @@ cut,SHEAR
 dam,WEIR
 dark,DINGY
 decay,ROT
+deity,GOD
 delicate,LIGHT
 dessert,SWEET
 direction,EAST
@@ -151,6 +156,7 @@ lair,DEN
 leader,HEAD
 lift,RAISE
 limit,END
+loaf,ROLL
 locked room,CELL
 longing,YEN
 long,PINE
@@ -210,7 +216,9 @@ platoon,UNIT
 play on words,PUN
 pleased,GLAD
 possesses,HAS
+post,SEND
 pretty,CUTE
+prison room,CELL
 promoted,UP
 race,NATION
 ramble,WALK
@@ -243,6 +251,7 @@ secure,PEN
 service,MASS
 shame,PITY
 shame,STIGMA
+share,STAKE
 sheep,EWE
 sheltered side,LEE
 sing,HUM
@@ -298,6 +307,7 @@ wine,PORT
 wine,RED
 woman,HER
 wood,LUMBER
+work at,DO
 worker,ANT
 worker,HAND
 work,OP

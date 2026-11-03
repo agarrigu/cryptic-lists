@@ -62,6 +62,7 @@ journalist,ED,Editor,
 king,ER,Edwardus Rex,Latin for King Edward
 king,K,,French deck card
 king,R,Rex,Latin for king
+lake,L,,
 large,L,,
 large number,D,N/A,Roman Numeral for 500
 left,L,,
@@ -70,17 +71,21 @@ love,O,score of 0,Tennis Term
 million,M,,
 money,M,,
 month,OCT,October,
+motorway,MI,M1 Motorway,
 newspaper chief,ED,Editor,
 New York,NY,,
 north,N,,
-nothing,O,0,0 is nothing which kind of looks like 'O'
+nothing,O,0,Zero is nothing which kind of looks like 'O'
 novice,L,Learner,
 officer,COL,Colonel,
 official,REF,Referee,
+old penny,D,Denarius,Roman silver coin; Abbr. for pennies before decimalisation
 one,I,N/A,Roman Numeral
+over,O,,\Dubious\
 page,P,,
 painter,RA,Royal Academician,Member of The Royal Academy
 pair,PR,,
+park,P,,
 penny,P,,
 point,E,East,
 point,N,North,
@@ -112,6 +117,7 @@ square,T,T-Square,A ruler shaped like a T
 sun,S,,
 that is,IE,Id est,Latin for 'that is'
 thousand,K,,
+times,X,,Math Symbol
 time,T,,
 university,U,,
 unknown,X,,Math Term
@@ -119,6 +125,7 @@ unknown,Y,,Math Term
 US city,LA,Los Angeles,
 very large,OS,outsize,
 very soft,PP,,
+victory,V,,
 wife,W,,
 workers group,TU,Trade Union,
 year,Y,,
