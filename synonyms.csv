@@ -6,6 +6,8 @@ allowed,LET
 allow,LET
 also,TOO
 always,EVER
+American money,CENT
+animal,GOAT
 animal,TIGER
 animal,WEASEL
 appropriate,FIT
@@ -30,6 +32,7 @@ belief,CREED
 belonging to us,OUR
 beyond,OFF
 bizarre,RUM
+boatbuilder,NOAH
 bony,LEAN
 book,RESERVE
 box,SPAR
@@ -37,9 +40,12 @@ boy,LAD
 breeze,AIR
 Buddhist faith,ZEN
 bull,COW
+bullish incitement,RED
+but,EXCEPT
 cancelled,OFF
 canine command,HEEL
 can,TIN
+cards,ACE
 cast,DIE
 castle,FORT
 centre,HEART
@@ -81,9 +87,12 @@ dark,DINGY
 decay,ROT
 deity,GOD
 delicate,LIGHT
+desire,YEN
 dessert,SWEET
+dine,EAT
 direction,EAST
 directors,BOARD
+disclaimer,WAIVER
 disorder,RIOT
 dog,BITCH
 doing wrong,ERRING
@@ -127,13 +136,16 @@ frugal,MISER
 fruit,DATE
 fruit,GOURD
 function,PARTY
+game,TENNIS
 gather,PLEAT
 genuine,REAL
 ghost,SPIRIT
 gifts,ALMS
 girl,GAL
 god,PAN
+go,LEAVE
 group,SET
+guys,MEN
 hat,TILE
 headquarters,BASE
 headquarters,CENTRE
@@ -161,19 +173,23 @@ joystick,LEVER
 keen,AVID
 kind,ILK
 kiss,SLIP
+knight,SIR
 knock,TAP
 lair,DEN
 lane,ALLEY
+laugh,HA
 leader,HEAD
 learning,LORE
 lift,RAISE
 limit,END
+line,ROW
 little devil,IMP
 loaf,ROLL
 locked room,CELL
 longing,YEN
 long,PINE
 looked for,SOUGHT
+magnitude,SIZE
 manage,DO
 manage,RUN
 man,HE
@@ -201,6 +217,7 @@ muddle,MESS
 music,DISCO
 name,TERM
 name,TITLE
+noblemen,EARLS
 not at home,OUT
 notice,AD
 number,EIGHT
@@ -235,10 +252,12 @@ post,SEND
 pretty,CUTE
 prison room,CELL
 promoted,UP
+quote,CITE
 race,NATION
 ramble,WALK
 ran,FLEW
 ran into,MET
+rascal,IMP
 region,AREA
 relative,AUNT
 relative,GRAN
@@ -289,24 +308,30 @@ steady,STABLE
 steeple,SPIRE
 step,PACE
 stick,CLING
+stiletto,HEEL
 still,EVEN
 stop,BAR
 story,LIE
 strange,RUM
 student,LEARNER
+study,DEN
 study,READ
 subsequently,THEN
 subside,DROP
 substantial,BIG
 suggestion,TAINT
 summary,RECAP
+take off,LAUNCH
+termination,END
 test,TAX
 thank you,TA
 through,VIA
 throw away,BIN
 tick,MO
 time,AGE
+tiresome,DRAG
 titan,ATLAS
+towards the bottom,DOWN
 town,CITY
 travel,GO
 trendy,IN
