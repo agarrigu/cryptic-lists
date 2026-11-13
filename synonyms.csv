@@ -93,6 +93,7 @@ dine,EAT
 direction,EAST
 directors,BOARD
 disclaimer,WAIVER
+discourteous,RUDE
 disorder,RIOT
 dog,BITCH
 doing wrong,ERRING
@@ -115,6 +116,7 @@ expensive,DEAR
 exploit,USE
 expression of surprise,GOSH
 facility,EASE
+factory,PLANT
 fast,LENT
 father,POP
 feature,WART
@@ -128,6 +130,7 @@ fish,SPRAT
 fit,SUIT
 food store,DELI
 former,EX
+formerly,EX
 former wife,EX
 fresh,NEW
 friend,BUD
@@ -147,6 +150,7 @@ go,LEAVE
 group,SET
 guys,MEN
 hat,TILE
+haze,MIST
 headquarters,BASE
 headquarters,CENTRE
 healthy,STRONG
@@ -242,6 +246,7 @@ past,AGO
 pay for,ATONE
 penultimate,Y
 performer,ACT
+person,MAN
 petition,BEG
 place,VENUE
 platoon,UNIT
@@ -278,6 +283,7 @@ route,PASS
 row,STROKE
 rubber,TIRE
 ruin,MAR
+rural deity,FAUN
 sausage,SAVELOY
 scam,CON
 school jacket,BLAZE
@@ -299,11 +305,14 @@ smart,CHIC
 snake,ADDER
 snake,ASP
 snake,BOA
+soar,FLY
 soft spot,MIRE
 song,TUNE
 sort,KIND
+spoil,WRECK
 spray,HOSE
 stands,RESTS
+state,SAY
 steady,STABLE
 steeple,SPIRE
 step,PACE
@@ -312,6 +321,7 @@ stiletto,HEEL
 still,EVEN
 stop,BAR
 story,LIE
+story,TALE
 strange,RUM
 student,LEARNER
 study,DEN
