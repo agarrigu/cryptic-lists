@@ -17,6 +17,7 @@ army,HOST
 article,A
 article,AN
 article,THE
+at home,IN
 attitude,POSE
 attraction,DRAW
 back,HIND
@@ -97,6 +98,7 @@ discourteous,RUDE
 disorder,RIOT
 dog,BITCH
 doing wrong,ERRING
+donkey,ASS
 drama,PLAY
 drawn,LED
 drink,ALE
@@ -106,6 +108,7 @@ dry,AIR
 during,IN
 earth,DEN
 earth,SOD
+edge,HEM
 emphasise,STRESS
 enclosure,STY
 entertainment in a field,FUNFAIR
@@ -115,6 +118,7 @@ exam,TEST
 expensive,DEAR
 exploit,USE
 expression of surprise,GOSH
+extremity,END
 facility,EASE
 factory,PLANT
 fast,LENT
@@ -122,6 +126,7 @@ father,POP
 feature,WART
 festering,SEPTIC
 figure,NUMBER
+filthy,RANK
 filthy site,STY
 finished,ENDED
 finished,OVER
@@ -159,6 +164,7 @@ helper,ELF
 herb,MINT
 herb,SAGE
 hike,RAMBLE
+horse,COB
 hospital department,WARD
 hurried,RAN
 important,MAIN
@@ -169,6 +175,8 @@ inlet,RIA
 instant,MO
 instrument,TOOL
 interruption,BREAK
+in the air,UP
+isn't able to,CANT
 jewellery,RING
 job,POST
 joke,PRANK
@@ -189,6 +197,7 @@ limit,END
 line,ROW
 little devil,IMP
 loaf,ROLL
+loathe,HATE
 locked room,CELL
 longing,YEN
 long,PINE
@@ -198,6 +207,7 @@ manage,DO
 manage,RUN
 man,HE
 Man,ISLE
+margin,BORDER
 mark,SCAR
 mark,TICK
 meal,SUPPER
@@ -232,6 +242,7 @@ on loan,OUT
 opening,VENT
 organise,RUN
 outlet,DISCO
+out of bed,UP
 oven,OAST
 paintings,ART
 panel,JURY
@@ -244,6 +255,7 @@ parson,MINISTER
 particular,DETAIL
 past,AGO
 pay for,ATONE
+pay increase,RISE
 penultimate,Y
 performer,ACT
 person,MAN
@@ -253,6 +265,7 @@ platoon,UNIT
 play on words,PUN
 pleased,GLAD
 possesses,HAS
+posted,SENT
 post,SEND
 pretty,CUTE
 prison room,CELL
@@ -312,6 +325,7 @@ sort,KIND
 spoil,WRECK
 spray,HOSE
 stands,RESTS
+star,SUN
 state,SAY
 steady,STABLE
 steeple,SPIRE
@@ -354,10 +368,12 @@ usual,CUSTOM
 venue,PLACE
 vessel,URN
 visitor,GUEST
+wager,BET
 warning,FORE
 wartime ordeal,BLITZ
 was fond of,LIKED
 well regarded,RATED
+when,AS
 wine,PORT
 wine,RED
 woman,HER
